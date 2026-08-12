@@ -157,6 +157,7 @@ Use tenure, contract type, payment method, internet service, monthly charges, an
 The Power BI dashboard contains two pages.
 
 ### Page 1 – Customer Churn Analysis Dashboard
+![Customer Churn Dashboard - Page 1](images/dashboard_page1.PNG)
 
 Includes:
 
@@ -172,7 +173,7 @@ Includes:
 - Churn by monthly charges
 
 ### Page 2 – Highest-Risk Customer Segment
-
+![Customer Churn Dashboard - Page 2](images/dashboard_page2.PNG)
 Includes:
 
 - Early-customer churn by contract and payment method
